@@ -1,0 +1,1 @@
+Implementação do https://tabnews.com.br pro https://curso.dev
